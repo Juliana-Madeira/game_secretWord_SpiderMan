@@ -1,0 +1,45 @@
+.end_screen{
+    background: linear-gradient(180deg, rgba(9, 35, 175, 1) 0%, rgba(0,0,0,1)100%);
+    background: url('../../assets/spider_dead.png');
+    background-size: cover;
+    color: #fff;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.end_screen_text{
+    text-align: center;
+    margin-bottom: 7em;
+}
+
+.end_screen_text h1{
+    font-size: 6em;
+    margin-bottom: 0.1em;
+}
+
+.end_screen_text h3 span{
+    color: #ecfa00;
+}
+
+.end_game_btn{
+    width: 250px;
+    height: 60px;
+    text-align: center;
+    font-size: 1.5em;
+    cursor: pointer;
+    text-decoration: none;
+    background-color: #0F2042;
+    color: #fff;
+    border: 1px solid #929292;
+    border-radius: 10px;
+    margin-top: 1.5em;
+}
+
+.end_game_btn:hover{
+    background-color: #4f648d;
+    transition: .4s;
+}
