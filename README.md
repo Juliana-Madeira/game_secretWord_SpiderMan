@@ -1,10 +1,10 @@
 # Secret Word - Spider Man
-Game all made in React.js
-Technologies used: Javascript, HTML, CSS, Node.js
-Images taken from the internet
-The objective of the game is to hit the secret word
-Game theme: Spiderman
-Play here: [link here]
+Game all made in React.js \
+Technologies used: Javascript, HTML, CSS, Node.js \ 
+Images taken from the internet\
+The objective of the game is to hit the secret word\
+Game theme: Spiderman\
+Play here: [link here]\
 
 ## Getting Started with Create React App
 
